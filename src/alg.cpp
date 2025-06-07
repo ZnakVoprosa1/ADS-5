@@ -85,6 +85,3 @@ int eval(const std::string& post) {
 
   return stack.peek();
 }
-
-  return nums.peek();
-}
